@@ -18,7 +18,7 @@ You need to download French word embeddings "vecs100-linear-frwiki" trained by M
 
 http://www.linguist.univ-paris-diderot.fr/~mcandito/vecs100-linear-frwiki.bz2
 
-And put this file in repository ./data_WSD_VS
+And put this file in the main repository.
 
 NB: Other word embeddings are possible: the dimension of the word embeddings should be 100, and the file containing these word embeddings must be a text file with a word embedding per line, the token (word) and the float values (vector values, word embeddings) must be separated by spaces (first the token, then the float values).
 
