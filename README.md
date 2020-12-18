@@ -5,7 +5,7 @@ POS tagger trained on Sequoia corpus with lstm (pytorch)
 Given a Sequence of words (sentence), predict a sequence of part-of-speech tags.
 
 - Model 1: LSTM using one-hot vectors to encode words
-- Model 2: LSTM using pretrained word emceddings vectors to encode words
+- Model 2: LSTM using pretrained word embeddings vectors to encode words
 
 The baseline of this NLP task (Part-of-Speech tagging) is the Most Frequent Sense. 
 
